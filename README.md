@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🌟 About Me:
 🔭 I’m currently working on: <br>  > A small project for my university.<br><br>  💬 Ask me about: <br>  > Pascal, Python, C, Smalltalk, and my experience studying system information engineering.<br><br>
 
 
